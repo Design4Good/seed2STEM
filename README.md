@@ -14,9 +14,9 @@
 
 
 <details>
-  <summary>Ethics</summary>
+ <summary>Ethics</summary>
 
- Question: Which of the following researchers must follow the TCPS 2 (select all that apply)?
+ ### Question: Which of the following researchers must follow the TCPS 2 (select all that apply)?
  - [x] A graduate student at an eligible Canadian college conducting self-funded research on political protest groups by interviewing members of those groups.
  - [x] A professor at an eligible Canadian university who is conducting research in Brazil on educational initiatives involving Indigenous Peoples.
  - [ ] An independent researcher hired by a private company to conduct research on consumer brand loyalties.
@@ -25,6 +25,11 @@
  - [ ] A graduate student at an eligible Canadian university who has a grant from NSERC to conduct research on the link between climate change and the bee population.
  
 
+ ### How should a researcher resolve a potential conflict between ethics considerations and legal obligations (select all that apply)?
+ - [x] Consult with colleagues, disciplinary associations, or lawyers, to determine how best to resolve the conflict
+ - [ ] Fulfil the ethical obligations – they have more moral weight.
+ - [ ] Follow the law – it always takes precedence over ethics
+ - [x] Anticipate potential conflicts and design research to avoid them, where possible.
 
 </details>
 
