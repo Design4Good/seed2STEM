@@ -31,6 +31,12 @@
  - [ ] Follow the law – it always takes precedence over ethics
  - [x] Anticipate potential conflicts and design research to avoid them, where possible.
 
+ ### The TCPS 2 defines research as “an undertaking intended to extend knowledge through a disciplined inquiry and/or systematic investigation”. Which of the following activities fall within this definition (select all that apply)?
+ - [ ] Professor A meets with colleagues in their department to discuss a research question of interest to them, with a view to refining the question.
+ - [ ] Professor A meets with representatives of a community to discuss conducting research within that community on the topic they discussed with their colleagues.
+ - [x] Professor A designs a pilot study to address that research question, and gets a small group of individuals to take part in the study.
+ - [x] Professor A revises the study based on their experience with the pilot study participants, and administers the full study to a group of 100 participants.
+
 </details>
 
 <details>
