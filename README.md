@@ -1,6 +1,12 @@
 # Seed2STEM
 
+<details>
+ <summary>Important dates</summary>
 
+- Dec 1: https://you.ubc.ca/financial-planning/scholarships-awards-canadian-students/presidential-scholars/
+- 
+
+</details>
 <details>
 <summary>Resources</summary>  
 
