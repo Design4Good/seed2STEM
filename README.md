@@ -4,16 +4,17 @@
  <summary>Important dates</summary>
 
 - Dec 1: https://you.ubc.ca/financial-planning/scholarships-awards-canadian-students/presidential-scholars/
-- 
+- ...
 
 </details>
+
+
 <details>
 <summary>Resources</summary>  
 
+
 ## BCCDC 
 - [Patient & Family Engagement Framework](https://pod.phsa.ca/quality-safety/patient-experience/engagement/Documents/PHSA%20Patient%20and%20Family%20Engagement%20Framework.pdf)
-
-## External
 
 
 </details>
