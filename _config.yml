@@ -1,0 +1,14 @@
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: false
+include:
+  - CONTRIBUTING.md
+  - README.md
+  - LICENSE.md
+# this version will render table properly https://github.com/orgs/community/discussions/23945
+title: Seed2STEM
+markdown: GFM
+show_downloads: false
+theme: jekyll-theme-merlot
